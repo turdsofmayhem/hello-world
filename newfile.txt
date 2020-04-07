@@ -1,0 +1,2 @@
+some words
+echo some words
